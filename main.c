@@ -8,6 +8,7 @@
 #include "kpm.h"
 #include "delay.h"
 #include"defines.h"
+#include "set_time.c"
 #define LED 30
 #define SW 5
 #define EINT0_VIC_CHNO 14
